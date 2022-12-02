@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363949611136",
+    "project_id": "bookmyshow-3965d",
+    "storage_bucket": "bookmyshow-3965d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363949611136:android:d13138a643810454ba2e65",
+        "android_client_info": {
+          "package_name": "com.example.bookprojects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363949611136-3m6p7l1h1dcri1tkchrglilvebvhh0oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpb9QQIp4cn-3z_N5rN5Bc-owzLVqOkw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363949611136-3m6p7l1h1dcri1tkchrglilvebvhh0oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
